@@ -1,0 +1,6 @@
+INFO service started
+INFO user login
+ERROR db connection failed
+WARNING memory high
+INFO retrying
+ERROR timeout reached
