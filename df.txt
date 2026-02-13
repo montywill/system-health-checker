@@ -1,0 +1,5 @@
+Filesystem Use%
+/dev/sda1 42%
+/dev/sda2 91%
+/dev/sdb1 67%
+/dev/sdc1 88%
